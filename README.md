@@ -1,1 +1,1 @@
-
+**The features I used to predict the price of the used car are year, odometer, manufacturer, condition, cylinders, fuel, type, drive, type, paint color. The model LinearRegression give the fewest RMSE, which is 4790 dollars. The performance of this model is bad, but it still tell some key factors related to the price. Based on the permutation_importance analysis,numbers of cyclinders, age of the car, odometer, vehicle’s drivetrain and type of fuel. Specificly, cars with youner age, less odemeter, fwd drive type, gas as fuel, and cylinders_4 are valued more**
